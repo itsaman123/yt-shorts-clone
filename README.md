@@ -1,8 +1,8 @@
 # YouTube UI Clone
-The TikTok UI Clone is a web application developed to replicate the user interface of the TikTok app. It is built using React.js, CSS, and JSX, and allows users to browse and view TikTok-style videos in a familiar and interactive interface.
+The YouTube UI Clone is a web application developed to replicate the user interface of the YouTube app. It is built using React.js, CSS, and JSX, and allows users to browse and view YouTube-style videos in a familiar and interactive interface.
 
 ## Features
-- Browse and view TikTok-style videos.
+- Browse and view YouTube-style videos.
 - Smooth and responsive video playback.
 - User-friendly interface with intuitive navigation.
 - Infinite scrolling for seamless video discovery.
@@ -16,7 +16,7 @@ The TikTok UI Clone is a web application developed to replicate the user interfa
 - VS Code
 
 ## Installation and Usage
-To use this TikTok UI Clone, follow these steps:
+To use this YouTube UI Clone, follow these steps:
 
 - Clone the repository or download the source code.
 - Open the project in your preferred code editor.
